@@ -1,0 +1,7 @@
+Add,View,Edit,Delete Appointment
+Add Payment
+Add,View,Edit Profile
+
+Add View Delete Sos members
+Send Email 
+Share Live Location
